@@ -29,6 +29,3 @@ The project uses the Algerian Forest Fires dataset, which contains meteorologica
 
 ## Contributing
 Feel free to submit issues and pull requests.
-
-## License
-MIT License
